@@ -33,51 +33,7 @@ Cryptera is a next-generation ERC-20 token engineered with a deflationary model,
 
 ---
 
-## Technical Stack
 
-- Solidity version ^0.8.0
-- OpenZeppelin Contracts v4.9
-- Deployed via Remix or Hardhat
-- Licensed under MIT
-
----
-
-## Mechanism Overview
-
-1. A transaction incurs a 2% tax and 1% burn.
-2. The 2% is forwarded to a rewards wallet.
-3. The 1% is permanently burned, reducing total supply.
-4. The owner can adjust tax/burn rates (with a combined cap of 10%) and mint new tokens.
-
----
-
-## Use Cases
-
-- Foundation token for decentralized finance (DeFi) platforms.
-- Medium of exchange in blockchain-based games or applications.
-- Incentive token for staking, rewards, or loyalty programs.
-- Scarce digital asset with deflationary mechanics.
-
----
-
-## Deployment Guidelines
-
-- Use Solidity version 0.8.0 or higher.
-- Set license to MIT.
-- Select the default EVM version unless otherwise required.
-- Flatten the contract before verifying it on Etherscan.
-
----
-
-## Additional Links
-
-- Website: Coming Soon
-- Etherscan: [Insert verified contract address here]
-- GitHub Repository: [Insert GitHub repo link]
-- Twitter: [Insert project Twitter link]
-- Telegram: [Insert Telegram link]
-
----
 
 ## Legal Disclaimer
 
