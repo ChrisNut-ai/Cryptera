@@ -20,18 +20,6 @@ Cryptera is a next-generation ERC-20 token engineered with a deflationary model,
 
 ## Token Specifications
 
-| Attribute         | Value                        |
-|------------------|------------------------------|
-| Token Name       | Cryptera                     |
-| Symbol           | CTA                          |
-| Decimals         | 18                           |
-| Initial Supply   | 10,000,000 CTA               |
-| Transaction Tax  | 2%                           |
-| Burn Fee         | 1%                           |
-| Mintable         | Yes (Owner only)             |
-| Rewards Wallet   | Configurable by owner        |
-
----
 
 
 
